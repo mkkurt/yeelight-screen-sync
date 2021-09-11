@@ -13,6 +13,7 @@ Yee-Sync requires [Node.js](https://nodejs.org/) to run.
 clone repository
 cd yeelight-screen-sync
 npm install
+npm link (to use yee-sync cli command)
 yee-sync
 ```
 
