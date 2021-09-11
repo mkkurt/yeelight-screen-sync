@@ -1,0 +1,35 @@
+{
+  "name": "yeelight-screen-sync",
+  "version": "1.0.0",
+  "description": "Sync Yeelight smart bulbs with your screen colors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkkurt/yeelight-screen-sync.git"
+  },
+  "keywords": [
+    "yeelight",
+    "sync",
+    "light",
+    "screen",
+    "colors"
+  ],
+  "author": {
+    "name": "Kutay Kurt",
+    "email": "kutaykurt99@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkkurt/yeelight-screen-sync/issues"
+  },
+  "homepage": "https://github.com/mkkurt/yeelight-screen-sync#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "image-average-color": "^1.0.0",
+    "node-yeelight-wifi": "^0.1.4",
+    "screenshot-desktop": "^1.12.7"
+  }
+}
