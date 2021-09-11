@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Sync Yeelight smart bulbs with your screen colors.",
   "main": "index.js",
+  "bin": {
+    "yee-sync": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
