@@ -21,7 +21,7 @@ yee-sync
 
 | Library                                                               |
 | --------------------------------------------------------------------- |
-| [Chalk](https://duckduckgo.com)                                       |
+| [Chalk](https://github.com/chalk/chalk)                               |
 | [image-average-color](https://github.com/aqrln/image-average-color)   |
 | [node-yeelight-wifi](https://github.com/Bastl34/node-yeelight-wifi)   |
 | [screenshot-desktop](https://github.com/bencevans/screenshot-desktop) |
